@@ -11,6 +11,12 @@ Flashing the binary
 
 FlyMCU can be used as normal.
 
+REPL
+----
+
+The REPL is available on the middle USB port at 115200 baud. Use any serial
+terminal (Tera Term, etc).
+
 Useful tools
 ------------
 
